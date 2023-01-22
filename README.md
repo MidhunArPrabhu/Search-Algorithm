@@ -27,7 +27,7 @@ To write a program to perform linear search and binary search using python progr
 
 ## PROGRAM  :
 
-# Use a linear search method to match the item in a list :
+### USE A LINEAR SEARCH METHOD TO MATCH THE ITEM IN A LIST :
 ```python
 
 Program for linear search method to match the item in a list
@@ -55,7 +55,7 @@ else:
     print(array)
     print("Element found at index: ", result)
 ```
-# Find the element in a list using Binary Search(Iterative Method).
+### FIND THE ELEMENT IN A LIST USING BINARY SEARCH(ITERATIVE METHOD) :
 
 ```python
 Program for linear search method to match the item in a list
@@ -89,7 +89,8 @@ else:
     print("Element found at index: ", result)
 
 ```
-iii)	# Find the element in a list using Binary Search (recursive Method).
+### FIND THE ELEMENT IN A LIST USING BINARY SEARCH(RECURSIVE METHOD) :
+
 
 ```python
 Program for linear search method to match the item in a list
