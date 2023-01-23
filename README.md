@@ -30,7 +30,7 @@ To write a program to perform linear search and binary search using python progr
 ### USE A LINEAR SEARCH METHOD TO MATCH THE ITEM IN A LIST :
 ```python
 
-Program for linear search method to match the item in a list
+
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
 
@@ -58,7 +58,7 @@ else:
 ### FIND THE ELEMENT IN A LIST USING BINARY SEARCH(ITERATIVE METHOD) :
 
 ```python
-Program for linear search method to match the item in a list
+
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
 
@@ -93,7 +93,7 @@ else:
 
 
 ```python
-Program for linear search method to match the item in a list
+
 Developed by: MIDHUN AZHAHU RAJA P
 RegisterNumber: 22008311
 
